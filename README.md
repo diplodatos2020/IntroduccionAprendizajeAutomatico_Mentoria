@@ -55,7 +55,7 @@ Alumnos
 Dataset
 -------
 
-Usar el dataset `dataset_inf_telec_v1.csv` que se encuentra en el repositorio GitHub de [Introducción a la Mentoria](https://github.com/diplodatos2020/Introduccion_Mentoria)
+Usar el dataset `dataset_inf_telec_20200501T130000_20200727T010000_v1.csv` que se encuentra en el repositorio GitHub de [Introducción a la Mentoria](https://github.com/diplodatos2020/Introduccion_Mentoria)
 
 -------------------------------------------------------------------------------
 
